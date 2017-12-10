@@ -1,0 +1,21 @@
+ 
+ @model LoginRegEntity.Models.LoginUser
+<div class="container col-lg-6 col-md-6 col-sm-6 col-xs-6"><br>
+    <div class="jumbotron">
+        <h1>Login</h1>
+        <form action="/login" method="POST">
+
+            <label asp-for="LogEmail"></label>
+            <input asp-for="LogEmail" class="form-control">
+            <span asp-validation-for="LogEmail" class="text-danger"></span>
+            <br>
+
+            <label asp-for="LogPassword"></label>
+            <input asp-for="LogPassword" class="form-control">
+            <span asp-validation-for="LogPassword" class="text-danger"></span>
+            <br>
+
+            <input type="submit" value="Log In" class="btn btn-primary">
+        </form>
+    </div>
+</div>

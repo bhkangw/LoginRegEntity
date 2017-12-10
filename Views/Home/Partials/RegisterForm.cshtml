@@ -1,0 +1,30 @@
+
+@model LoginRegEntity.Models.RegisterUser
+<div class="container çcol-lg-6 col-md-6 col-sm-6 col-xs-6"><br>
+    <div class="jumbotron">
+        <h1>Register</h1>
+        <form method="post" asp-controller="Home" asp-action="Register">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-control">
+            <span asp-validation-for="FirstName" class="text-danger"></span><br>
+            
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control">
+            <span asp-validation-for="LastName" class="text-danger"></span><br>
+
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control">
+            <span asp-validation-for="Email" class="text-danger"></span><br>
+
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control">
+            <span asp-validation-for="Password" class="text-danger"></span><br>
+
+            <label asp-for="Confirm"></label>
+            <input asp-for="Confirm" class="form-control">
+            <span asp-validation-for="Confirm" class="text-danger"></span><br>
+
+            <input type="submit" value="Register" class="btn btn-primary">
+        </form>
+    </div>
+</div>

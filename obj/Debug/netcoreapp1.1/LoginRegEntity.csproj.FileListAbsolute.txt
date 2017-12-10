@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/LoginRegEntity/bin/Debug/netcoreapp1.1/LoginRegEntity.deps.json
+/Users/bkila/Desktop/LoginRegEntity/bin/Debug/netcoreapp1.1/LoginRegEntity.runtimeconfig.json
+/Users/bkila/Desktop/LoginRegEntity/bin/Debug/netcoreapp1.1/LoginRegEntity.runtimeconfig.dev.json
+/Users/bkila/Desktop/LoginRegEntity/bin/Debug/netcoreapp1.1/LoginRegEntity.dll
+/Users/bkila/Desktop/LoginRegEntity/bin/Debug/netcoreapp1.1/LoginRegEntity.pdb
+/Users/bkila/Desktop/LoginRegEntity/obj/Debug/netcoreapp1.1/LoginRegEntity.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/LoginRegEntity/obj/Debug/netcoreapp1.1/LoginRegEntity.AssemblyInfo.cs
+/Users/bkila/Desktop/LoginRegEntity/obj/Debug/netcoreapp1.1/LoginRegEntity.dll
+/Users/bkila/Desktop/LoginRegEntity/obj/Debug/netcoreapp1.1/LoginRegEntity.pdb
