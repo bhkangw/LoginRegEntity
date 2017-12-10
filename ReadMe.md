@@ -5,10 +5,10 @@ This is a modular login & registration project built using Entity ORM, intended 
 1. Create a universal login & registration page for future projects.
 2. Practicing object relational mapping with Entity.
 3. Utilize partials to display multiple bound models on a single html page.
-4. Develop skills in C# and ASP.NET Core.
+4. Developing my skills in C# and ASP.NET Core.
 
 ## Features
-- Captures user data through session and display it after succesful login/registration.
+- Captures user data through session and displays it after succesful login/registration.
 - Secures sensitive user information using hashing.
 - Connects to MySQL database via Entity ORM.
 - Used Twitter Bootstrap for basic styling.
